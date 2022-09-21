@@ -5,3 +5,4 @@
 =======
 这是merge分支上添加的内容
 >>>>>>> mergedemo
+version1
